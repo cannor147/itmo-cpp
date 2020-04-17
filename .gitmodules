@@ -1,0 +1,3 @@
+[submodule "hw04-huffman"]
+	path = hw04-huffman
+	url = git@github.com:cannor147/huffman.git
