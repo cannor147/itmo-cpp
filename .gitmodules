@@ -4,3 +4,9 @@
 [submodule "hw02&03-big-integer"]
 	path = hw02&03-big-integer
 	url = git@github.com:cannor147/big_integer.git
+[submodule "hw06-duplicate-checker"]
+	path = hw06-duplicate-checker
+	url = git@github.com:cannor147/duplicate_checker.git
+[submodule "hw05-substring-finder"]
+	path = hw05-substring-finder
+	url = git@github.com:cannor147/substring_finder.git
