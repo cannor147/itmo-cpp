@@ -10,3 +10,9 @@
 [submodule "hw05-substring-finder"]
 	path = hw05-substring-finder
 	url = git@github.com:cannor147/substring_finder.git
+[submodule "exam01-sequence"]
+	path = exam01-sequence
+	url = git@github.com:cannor147/sequence.git
+[submodule "exam01-set_restore_guard"]
+	path = exam01-set_restore_guard
+	url = git@github.com:cannor147/set_restore_guard.git
