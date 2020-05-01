@@ -13,6 +13,6 @@
 [submodule "exam01-sequence"]
 	path = exam01-sequence
 	url = git@github.com:cannor147/sequence.git
-[submodule "exam01-set_restore_guard"]
+[submodule "exam01-set-restore-guard"]
 	path = exam01-set-restore-guard
 	url = git@github.com:cannor147/set_restore_guard.git
