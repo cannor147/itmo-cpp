@@ -42,29 +42,29 @@
    * условия и решение всё ещё хранятся локально
 2. `big_integer`
    * **примерные темы:** _основы C++, структуры и классы_
-   * [условия и решение](hw02&03-big-integer)
+   * [условия и решение](https://github.com/cannor147/big_integer)
 3. Small Object & Copy-on-Write optimizations
    * **примерные темы:** _структуры и классы, модель памяти C++_
-   * [условия и решение](hw02&03-big-integer) (вместе с `big_integer`)
+   * [условия и решение](https://github.com/cannor147/big_integer) (вместе с `big_integer`)
 4. Алгоритм сжатия Хаффмана
    * **примерные темы:** _безопасность и исключения, STL, `namespace`_
-   * [условия и решение](hw04-huffman)
+   * [условия и решение](https://github.com/cannor147/huffman)
 
 ## 2 семестр
 
 5. Поиск файлов по подстроке
    * **примерные темы:** _лямбда-исчисление в C++, `std::signal`, многопоточность в C++, работа с файловой системой_
-   * [условия и решение](hw05-substring-finder)
+   * [условия и решение](https://github.com/cannor147/substring_finder)
 6. Поиск дубликатов файлов
    * **примерные темы:** _лямбда-исчисление в C++, `std::signal`, многопоточность в C++, работа с файловой системой_
-   * [условия и решение](hw06-duplicate-checker)
+   * [условия и решение](https://github.com/cannor147/duplicate_checker)
 
 # Экзаменационные задачи
 
 ## 1 семестр
 
-- `set_restore_guard`: [условия и решение](exam01-set-restore-guard)
-- `sequence`: [условия и решение](exam01-sequence)
+- `set_restore_guard`: [условия и решение](https://github.com/cannor147/set_restore_guard)
+- `sequence`: [условия и решение](https://github.com/cannor147/sequence)
 
 ## 2 семестр
 
