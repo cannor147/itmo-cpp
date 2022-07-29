@@ -1,8 +1,6 @@
 # Язык программирования C++
 
-## Сведения о курсе
-
-Курс читался [Иваном Сорокиным](https://github.com/sorokin) в Университете ИТМО в 2018 году (year2017, 2-3 семестры).
+Курс подготовил и прочитал [Иван Сорокин](https://github.com/sorokin) в Университете ИТМО в 2018 году (year2017, 2-3 семестры).
 
 ## Теоретический материал
 
@@ -39,22 +37,22 @@
 
 ### 1 семестр
 
-1. Арифметика на assembler
-2. `big_integer` ([условия и решение](https://github.com/cannor147/big_integer))
-3. Small Object & Copy-on-Write optimizations ([условия и решение](https://github.com/cannor147/big_integer) вместе с `big_integer`)
-4. Алгоритм сжатия Хаффмана ([условия и решение](https://github.com/cannor147/huffman))
+1. Арифметика на assembler: условия хранятся локально, решение утеряно
+2. `big_integer` ([условия и решение](https://github.com/cannor147/itmo-cpp-bigint))
+3. Small Object & Copy-on-Write optimizations ([условия и решение](https://github.com/cannor147/itmo-cpp-bigint) вместе с `big_integer`)
+4. Алгоритм сжатия Хаффмана ([условия и решение](https://github.com/cannor147/itmo-cpp-huffman))
 
 ### 2 семестр
 
-5. Поиск файлов по подстроке ([условия и решение](https://github.com/cannor147/substring_finder))
-6. Поиск дубликатов файлов ([условия и решение](https://github.com/cannor147/duplicate_checker))
+5. Поиск файлов по подстроке ([условия и решение](https://github.com/cannor147/itmo-cpp-substr))
+6. Поиск дубликатов файлов ([условия и решение](https://github.com/cannor147/itmo-cpp-duplicate))
 
 ## Экзаменационные задачи
 
 ### 1 семестр
 
-- `set_restore_guard`: [условия и решение](https://github.com/cannor147/set_restore_guard)
-- `sequence`: [условия и решение](https://github.com/cannor147/sequence)
+- `set_restore_guard`: [условия и решение](https://github.com/cannor147/itmo-cpp-restore)
+- `sequence`: [условия и решение](https://github.com/cannor147/itmo-cpp-sequence)
 
 ### 2 семестр
 
@@ -63,4 +61,4 @@
 ## Полезные ссылки
 
 * [Страница курса](http://sorokin.github.io/cpp-course/)
-* [C++ course notes](https://lejabque.github.io/cpp-notes/)
+* [Материалы по курсу (текущая версия)](https://cpp-kt.github.io/cpp-notes/)

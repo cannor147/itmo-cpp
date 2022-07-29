@@ -1,18 +1,18 @@
+[submodule "hw02&03-bigint"]
+	path = hw02&03-bigint
+	url = https://github.com/cannor147/itmo-cpp-bigint
 [submodule "hw04-huffman"]
 	path = hw04-huffman
-	url = git@github.com:cannor147/huffman.git
-[submodule "hw02&03-big-integer"]
-	path = hw02&03-big-integer
-	url = git@github.com:cannor147/big_integer.git
-[submodule "hw06-duplicate-checker"]
-	path = hw06-duplicate-checker
-	url = git@github.com:cannor147/duplicate_checker.git
-[submodule "hw05-substring-finder"]
-	path = hw05-substring-finder
-	url = git@github.com:cannor147/substring_finder.git
+	url = git@github.com:cannor147/itmo-cpp-huffman
+[submodule "hw05-substr"]
+	path = hw05-substr
+	url = https://github.com/cannor147/itmo-cpp-substr
+[submodule "hw06-duplicate"]
+	path = hw06-duplicate
+	url = https://github.com/cannor147/itmo-cpp-duplicate
 [submodule "exam01-sequence"]
 	path = exam01-sequence
-	url = git@github.com:cannor147/sequence.git
-[submodule "exam01-set-restore-guard"]
-	path = exam01-set-restore-guard
-	url = git@github.com:cannor147/set_restore_guard.git
+	url = git@github.com:cannor147/itmo-cpp-sequence
+[submodule "exam01-restore"]
+	path = exam01-restore
+	url = https://github.com/cannor147/itmo-cpp-restore
