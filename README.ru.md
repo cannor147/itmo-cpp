@@ -1,6 +1,6 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](README.md) [![en](https://img.shields.io/badge/lang-ru-blue.svg)](README.ru.md)
 
-# Язык программирования C++
+# Язык Программирования C++
 
 Курс подготовил и прочитал [Иван Сорокин](https://github.com/sorokin) в Университете ИТМО в 2018 году (year2017, 2—3 семестры).
 

@@ -1,6 +1,6 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](README.md) [![en](https://img.shields.io/badge/lang-ru-blue.svg)](README.ru.md)
 
-# C++ language
+# C++ Language
 
 Course was designed and taught by [Ivan Sorokin](https://github.com/sorokin) at ITMO University in 2018 (year2017, 2nd–3rd semesters).
 
